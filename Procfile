@@ -1,1 +1,1 @@
-worker: bash NIR
+worker:NIR
