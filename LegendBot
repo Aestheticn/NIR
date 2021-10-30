@@ -6,10 +6,10 @@ _get_repolink () {
     regex='(https?)://github.com/.+/.+'
     if [[ $NIR_REPO == "NIR BOT" ]]
     then
-        echo "aHR0cHM6Ly9naXRodWIuY29tL0xFR0VORC1PUy9MRUdFTkRVU0VSQk9UL2FyY2hpdmUvbWFzdGVyLnppcA==" | base64 -d
+        echo "aHR0cHM6Ly9naXRodWIuY29tL05JUi1BRVNUSEVUSUMvTklSIFVTRVJCT1QvYXJjaGl2ZS9tYXN0ZXIuemlw" | base64 -d
     elif [[ $NIR_REPO == "NIR" ]]
     then
-        echo "aHR0cHM6Ly9naXRodWIuY29tL0xFR0VORC1PUy9MRUdFTkRVU0VSQk9UL2FyY2hpdmUvbWFzdGVyLnppcA==" | base64 -d
+        echo "aHR0cHM6Ly9naXRodWIuY29tL05JUi1BRVNUSEVUSUMvTklSIFVTRVJCT1QvYXJjaGl2ZS9tYXN0ZXIuemlw" | base64 -d
     elif [[ $NIR_REPO =~ $regex ]]
     then
         if [[ $NIR_REPO_BRANCH ]]
@@ -19,7 +19,7 @@ _get_repolink () {
             echo "${NIR_REPO}/archive/master.zip"
         fi
     else
-        echo "aHR0cHM6Ly9naXRodWIuY29tL0xFR0VORC1PUy9MRUdFTkRVU0VSQk9UL2FyY2hpdmUvbWFzdGVyLnppcA==" | base64 -d
+        echo "aHR0cHM6Ly9naXRodWIuY29tL05JUi1BRVNUSEVUSUMvTklSIFVTRVJCT1QvYXJjaGl2ZS9tYXN0ZXIuemlw" | base64 -d
     fi
 }
 
