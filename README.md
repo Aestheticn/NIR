@@ -5,8 +5,7 @@
 [![NIRBOT](https://telegra.ph/file/6a179d00c7b532de050e3.jpg)](https://github.com/Aestheticn/NIR)
 
 
-<p align="center">
-<a href="https://github.com/Aestheticn/NIR" alt="GitHub closed issues"> <img src="https://img.shields.io/github/issues-closed-raw/NIR/NIRBOT?style=flat&logo=github&color=success" /> </a>
+
 
 <p align="center">
 <a href="https://t.me/concerning_nir" alt="Telegram!"> <img src="https://aleen42.github.io/badges/src/telegram.svg" /> </a>
