@@ -14,7 +14,7 @@
 </p>
 
 
-## ✨SEXY AF NIRBOT✨
+## ✨NIR USERBOT✨
 ## 𝓐 𝕾мοοτн 𝓐и∂ 𝕱αѕτєѕτ 𝖀sєяϐοt.
 
 
