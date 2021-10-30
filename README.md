@@ -7,18 +7,7 @@
 
 <p align="center">
 <a href="https://github.com/Aestheticn/NIR" alt="GitHub closed issues"> <img src="https://img.shields.io/github/issues-closed-raw/NIR/NIRBOT?style=flat&logo=github&color=success" /> </a>
-<a href="https://github.com/AESTHETICN/NIRBOT/graphs/contributors" alt="GitHub contributors"> <img src="https://img.shields.io/github/contributors/LEGEND-OS/LEGENDBOT?style=flat&logo=github" /> </a>
-<a href="https://github.com/Aestheticn/NIR/members" alt="GitHub forks"> <img src="https://img.shields.io/github/forks/LEGEND-OS/LEGENDBOT?label=Forks&logo=github" /> </a>
-<a href="https://github.com/Aestheticn/NIR" alt="GitHub closed pull requests"> <img src="https://img.shields.io/github/issues-pr-closed-raw/LEGEND-OS/NIRBOT?color=success" /> </a>
-<a href="https://github.com/Aestheticn/NIR" alt="GitHub issues"> <img src="https://img.shields.io/github/issues-raw/LEGEND-OS/LEGENDBOT?style=flat&logo=github&color=yellow" /> </a>
-</p>
-<p align="center">
-<a href="https://github.com/Aestheticn/NIR" alt="GitHub release (latest by date including pre-releases)"> <img src="https://img.shields.io/github/v/release/LEGEND-OS/LEGENDBOT?include_prereleases?style=flat&logo=github" /> </a>
-<a href="https://www.python.org/" alt="made-with-python"> <img src="https://img.shields.io/badge/Made%20with-Python-1f425f.svg?style=flat&logo=python&color=blue" /> </a>
-<a href="https://github.com/Aestheticn/NIR" alt="Docker!"> <img src="https://aleen42.github.io/badges/src/docker.svg" /> </a>
-<a href="https://github.com/Aestheticn/NIR" alt="GitHub repo size"> <img src="https://img.shields.io/github/repo-size/LEGEND-OS/LEGENDBOT" /> </a>
-<a href="https://github.com/Aestheticn/NIR/lob/master/LICENSE" alt="GPLv3 license"> <img src="https://img.shields.io/badge/License-GPLv3-blue.svg" /> </a>
-</p>
+
 <p align="center">
 <a href="https://t.me/concerning_nir" alt="Telegram!"> <img src="https://aleen42.github.io/badges/src/telegram.svg" /> </a>
 <a href="https://github.com/Aestheticn/NIR/graphs/commit-activity" alt="Maintenance"> <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" /> </a>
