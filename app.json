@@ -1,6 +1,6 @@
 {
-  "name": "Lêɠêɳ̃dẞø†",
-  "description": "τнє ϐєѕτ υѕєяϐοτ мα∂є ϐγ †hê~Lêɠêɳ̃dẞøY Made with Love And By Python Language With Hardwork... ❤ ",
+  "name": "NIR USERBOT",
+  "description": "τнє ϐєѕτ υѕєяϐοτ мα∂є ϐγ †hê NIR Made with Love And By Python Language With Hardwork... ❤ ",
   "logo": "https://te.legra.ph/file/d17467283e73c884834a5.jpg",
     "keywords": [
     "telegram",
@@ -9,9 +9,9 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/LEGENDS-OP/LEGENDBOT/",
-  "website": "https://github.com/LEGENDS-OP/LEGENDBOT/",
-  "success_url": "https://t.me/Legend_Userbot",
+  "repository": "https://github.com/Aestheticn/NIR/",
+  "website": "https://github.com/Aestheticn/NIR",
+  "success_url": "https://t.me/concerning_nir",
   "env": {
     "ENV": {
       "description": "Set this to ANYTHING will enable heroku.",
@@ -24,12 +24,12 @@
     },
     "ALIVE_NAME": {
       "description": "Fill your Full name. By default it is LEGEND User",
-      "value": "†hê~Lêɠêɳ̃dẞøY",
+      "value": "†hê NIR",
       "required": false
     },
     "ALIVE_MSG": {
       "description": "Set Custom Alive Message When entering .alive Or .legend  Command.",
-      "value": "Lêɠêɳ̃dẞø† 𝐈𝐬 𝐀𝐥𝐢𝐯𝐞 🇮🇳",
+      "value": "NIR IS ALIVE✨",
       "required": false
     },
     "ABUSE": {
@@ -39,12 +39,12 @@
     },
     "YOUR_GROUP": {
       "description": "Set Ur Group Username",
-      "value": "@Legend_Userbot",
+      "value": "@nir_bot_support",
       "required": false
     },
     "YOUR_CHANNEL": {
       "description": "Set Ur Group Username",
-      "value": "@Its_LegendBot",
+      "value": "@concerning_nir",
       "required": false
     },
     "EXTRA_PLUGIN": {
@@ -64,32 +64,32 @@
     },
     "AWAKE_PIC": {
       "description": "Put here any telegraph media link for awake pic in .awake Or .bot command.",
-      "value": "",
+      "value": "https://telegra.ph/file/6a179d00c7b532de050e3.jpg",
       "required": false
     },
     "OP_PIC": {
       "description": "Put here any telegraph media link for OP pic in .op command.",
-      "value": "",
+      "value": "https://telegra.ph/file/6a179d00c7b532de050e3.jpg",
       "required": false
     },
     "ALIVE_PIC": {
       "description": "Put here any telegraph media link for alive pic in .alive Or .legend command.",
-      "value": "",
+      "value": "https://telegra.ph/file/6a179d00c7b532de050e3.jpg",
       "required": false
     },
     "BIO_MSG": {
       "description": "Put Your Telegram Bio Here Required For Auto Bio.",
-      "value": "𝙸 𝚊𝚖 𝙻𝚎𝚐𝚎𝚗𝚍 ϐєϲαυѕє ι αм υѕєя οƒ ✞︎t͛ẞ̸ 𝖑𝖊ɠêɳ̃dẞø✞︎ @Legend_Userbot",
+      "value": "https://t.me/concerning_nir",
       "required": true
     },
     "PM_PIC": {
       "description": "put here any telegraph media link for custom pmpermit pic.",
-      "value": "",
+      "value": "https://telegra.ph/file/6a179d00c7b532de050e3.jpg",
       "required": false
     },
     "PM_MSG": {
       "description": "Enter Your custom pm permit msg.",
-      "value": "нєℓℓο ѕιя / мιѕѕ,\nρℓєαѕє ∂οи'τ τяγ το ѕραм мγ мαѕτєя οτнєяωιѕє υ ωιℓℓ ϐℓοϲκє∂ ϐγ 𝖑𝖊ɠêɳ̃dẞø✞︎ 🇮🇳.\nℑ ωιℓℓ яєρℓγ υ αƒτєя ϲοмє ϐαϲκ οиℓιиє,\nτнαиκγου!",
+      "value": "нєℓℓο ѕιя / мιѕѕ,\nρℓєαѕє ∂οи'τ τяγ το ѕραм мγ мαѕτєя οτнєяωιѕє υ ωιℓℓ ϐℓοϲκє∂ ϐγ NIR BOT✨.\nℑ ωιℓℓ яєρℓγ υ αƒτєя ϲοмє ϐαϲκ οиℓιиє,\nτнαиκγου!",
       "required": false
     },
     "MAX_FLOOD_IN_PM": {
@@ -173,17 +173,17 @@
     },
     "PING_PIC": {
       "description": "Put Telegraph Link of any Pic Or Video",
-      "value": "https://te.legra.ph/file/ace5feae5b1ac8ea262ed.jpg",
+      "value": "https://telegra.ph/file/6a179d00c7b532de050e3.jpg",
       "required": false
     },
     "EMOJI_IN_HELP1": {
       "description": "Set The emojies You Want to Add In Help Command!!",
-      "value": "⚜",
+      "value": "𝄢",
       "required": true
     },
     "EMOJI_IN_HELP2": {
       "description": "Set The emojies You Want to Add In Help Command!!",
-      "value": "💫",
+      "value": "𝄢",
       "required": false
     },
     "PM_DATA": {
